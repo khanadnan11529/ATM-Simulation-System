@@ -19,13 +19,19 @@ It demonstrates **OOP, Collections, File I/O, Exception Handling, and Encapsulat
 ## 📂 Project Structure
 ATMSystem/
 ├── src/com/atm/
+
 │ ├── UserAccount.java
+
 │ ├── ATM.java
+
 │ └── Main.java
+
 └── account.txt (Generated at runtime for persistence)
 
 📌 Example Run
+
 Enter PIN: 1234
+
 ===== ATM Menu =====
 1. Check Balance
 2. Deposit Money
